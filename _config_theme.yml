@@ -1,16 +1,15 @@
 title: Aria Ricci
- # author:
- # name: GitHub User
- # email: your-email@domain.com
+#logo: 
+show_downloads: true
 
- description: >
-I am passionate about transforming messy data into meaningful stories. 
-Analytical and creative Data Analyst with hands-on
-experience in SQL, data visualization, and data cleaning. 
-Proven ability to manage large datasets, build dashboards, 
-and collaborate cross-functionally to deliver actionable insights. 
-Adept in tools like RStudio, Tableau, Excel, and Deltek, with a
-foundation in data ethics and process optimization. 
+description: >
+I am passionate about transforming messy data into meaningful stories. >
+Analytical and creative Data Analyst with hands-on >
+experience in SQL, data visualization, and data cleaning. >
+Proven ability to manage large datasets, build dashboards, >
+and collaborate cross-functionally to deliver actionable insights. >
+Adept in tools like RStudio, Tableau, Excel, and Deltek, with a >
+foundation in data ethics and process optimization. >
 
 theme: jekyll-theme-minimal
 
@@ -55,9 +54,11 @@ minima:
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
   social_links:
-    - title: Data Analytics Website
-      icon: fa-google
-      url: "https://sites.google.com/view/aria-ricci"
-    - title: LinkedIn
-      icon: linkedin
-      url: "https://www.linkedin.com/in/aria-ricci/"
+    - title: Data Analytics Website >
+      icon: fa-google >
+      url: "https://sites.google.com/view/aria-ricci" >
+    - title: LinkedIn >
+      icon: linkedin >
+      url: "https://www.linkedin.com/in/aria-ricci/" >
+
+ 
