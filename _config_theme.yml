@@ -53,12 +53,12 @@ minima:
   #     * title    Tooltip rendered on hovering over icon.
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
- # social_links:
-  #  - title: Data Analytics Website >
-   #   icon: fa-google >
-    #  url: "https://sites.google.com/view/aria-ricci" >
-   # - title: LinkedIn >
-    #  icon: linkedin >
-     # url: "https://www.linkedin.com/in/aria-ricci/" >
+social_links:  
+title: Data Analytics Website  
+icon: fa-google  
+url: "https://sites.google.com/view/aria-ricci"  
+title: LinkedIn  
+icon: linkedin  
+url: "https://www.linkedin.com/in/aria-ricci/"  
 
  
