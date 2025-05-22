@@ -3,15 +3,11 @@ logo: /assests/img/headshot
 show_downloads: true
 theme: jekyll-theme-minimal
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+#sass:
+ # quiet_deps: true
+  #silence_deprecations: [import]
 
-sass:
-  quiet_deps: true
-  silence_deprecations: [import]
-
-minima:
+#minima:
   # Minima skin selection. Available skins are:
   #   Available skins:
   #     * classic            Default, light color scheme.
@@ -20,17 +16,17 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized          Adaptive skin for solarized color scheme skins.
-  skin: classic
+ # skin: classic
 
   # Specific pages for site navigation.
   #   If you wish to link only specific pages in the site-navigation, use this and list
   #   the `path` property (as represented via Liquid) of the pages in the order they
   #   should be rendered.
-  nav_pages:
-    - about.md
+  #nav_pages:
+   # - about.md
 
   # Set to `true` to show excerpts on the homepage.
-  show_excerpts: false
+#  show_excerpts: false
 
   # Minima date format.
   #   The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
@@ -43,12 +39,11 @@ minima:
   #     * title    Tooltip rendered on hovering over icon.
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
-social_links:  
-title: Data Analytics Website  
-icon: fa-google  
-url: "https://sites.google.com/view/aria-ricci"  
-title: LinkedIn  
-icon: linkedin  
-url: "https://www.linkedin.com/in/aria-ricci/"  
-
+#social_links:  
+#title: Data Analytics Website  
+#icon: fa-google  
+#url: "https://sites.google.com/view/aria-ricci"  
+#title: LinkedIn  
+#icon: linkedin  
+#url: "https://www.linkedin.com/in/aria-ricci/"  
  
