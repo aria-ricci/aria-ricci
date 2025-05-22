@@ -1,9 +1,5 @@
 # Data Analyst
 
-#### Projects  
-- The Tech Stock Hype Cycle
-- Hottest Jobs of the Next Decade
-
 #### Education  
   - Champlain College 
     degree: Bachelor of Marketing & Advertising 
@@ -44,22 +40,22 @@ Administrative Specialist @ Miyamoto Intl 2019-2023
       - Boosted subscriptions by 50% over 2 years.  
       - Fast and efficient troubleshooting with customers.  
 
- Technical Skills:  
-    - R Programming 
-    - SQL 
-    - Excel 
-    - Tableau 
-    - PowerPoint 
-    - Canva
-    - Zendesk
-    - Deltek
-    - Google Sheets
-    - AI Collaboration
-    - Data Cleaning
-    - Data Visualization 
-    - Data Dashboards
- 
-  Soft Skills:
-    - Leadership 
-    - Detail-Oriented
-    - Data Ethics 
+#### Technical Skills:  
+- R Programming  
+- SQL  
+- Excel   
+- Tableau   
+- PowerPoint  
+- Canva  
+- Zendesk  
+- Deltek  
+- Google Sheets  
+- AI Collaboration  
+- Data Cleaning  
+- Data Visualization   
+- Data Dashboards  
+
+#### Soft Skills:  
+- Leadership  
+- Detail-Oriented  
+- Data Ethics  
