@@ -1,15 +1,4 @@
 # Data Analyst
-<div id="badges">
-  <a @aria-ricci ="https://www.linkedin.com/in/aria-ricci/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a Data Portfolio Website ="https://sites.google.com/view/aria-ricci">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
-
-![Data Analytics Website]("https://sites.google.com/view/aria-ricci")  
-![LinkedIn]("https://www.linkedin.com/in/aria-ricci/")  
 
 #### Projects  
 - The Tech Stock Hype Cycle
