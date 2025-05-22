@@ -1,5 +1,14 @@
 # Data Analyst
 
+#### About:  
+I am passionate about transforming messy data into meaningful stories.  
+Analytical and creative Data Analyst with hands-on  
+experience in SQL, data visualization, and data cleaning.  
+Proven ability to manage large datasets, build dashboards,  
+and collaborate cross-functionally to deliver actionable insights.  
+Adept in tools like RStudio, Tableau, Excel, and Deltek, with a  
+foundation in data ethics and process optimization.  
+
 #### Education  
   - Champlain College 
     degree: Bachelor of Marketing & Advertising 
